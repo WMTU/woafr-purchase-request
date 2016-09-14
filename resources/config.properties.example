@@ -1,0 +1,6 @@
+# WMTU Purchase Request Widget Properties
+dbHostname=<DatabaseHostname>
+dbName=<DatabaseName>
+dbTable=<DatabaseTable>
+dbUser=<DatabaseUser>
+dbPassword=<DatabasePassword>
